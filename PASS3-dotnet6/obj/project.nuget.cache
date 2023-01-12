@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tihRArczBE9PoZDhH7Z2fJFLBxizEabtd2pi6wmZ37WZOzkEv/jE18lFtmALvi6jf8XHYGCBUMlUKzuEgKVRUA==",
+  "success": true,
+  "projectFilePath": "/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/PASS3-dotnet6.csproj",
+  "expectedPackageFiles": [
+    "/home/chicken10dys/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/home/chicken10dys/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

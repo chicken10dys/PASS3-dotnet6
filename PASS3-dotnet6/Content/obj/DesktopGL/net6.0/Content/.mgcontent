@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/ball.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/Blank.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/BlueBucket.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/DownArrow.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/ExitBtn1.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/GreenBucket.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/LeftArrow.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/NoWind.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/PlayBtn1.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/PowerMeter.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/RedBucket.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/RightArrow.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/UpArrow.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/WindArrowLeft.png</File>
+    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/WindArrowRight.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

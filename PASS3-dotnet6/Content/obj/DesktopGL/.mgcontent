@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/PASS3/PASS3/Content/Fonts/Font.spritefont</File>
+    <File>D:/PASS3/PASS3/Content/Fonts/FontXL.spritefont</File>
+    <File>D:/PASS3/PASS3/Content/Fonts/mediumFont.spritefont</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/ball.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/Blank.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/BlueBucket.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/DownArrow.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/ExitBtn1.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/GreenBucket.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/LeftArrow.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/NoWind.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/PlayBtn1.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/PowerMeter.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/RedBucket.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/RightArrow.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/UpArrow.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/WindArrowLeft.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/WindArrowRight.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,19 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/PASS3/PASS3/Content/Fonts/Font.spritefont","D:/PASS3/PASS3/bin/Debug/Content/Fonts/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70667,0.390582
+"D:/PASS3/PASS3/Content/Fonts/FontXL.spritefont","D:/PASS3/PASS3/bin/Debug/Content/Fonts/FontXL.xnb","FontDescriptionProcessor","SpriteFontContent",2008,267275,0.0937497
+"D:/PASS3/PASS3/Content/Fonts/mediumFont.spritefont","D:/PASS3/PASS3/bin/Debug/Content/Fonts/mediumFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21515,0.0625018
+"D:/PASS3/PASS3/Content/Sprites/ball.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/ball.xnb","TextureProcessor","Texture2DContent",47122,262229,0.3126041
+"D:/PASS3/PASS3/Content/Sprites/Blank.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/Blank.xnb","TextureProcessor","Texture2DContent",2807,89,0.0312449
+"D:/PASS3/PASS3/Content/Sprites/BlueBucket.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/BlueBucket.xnb","TextureProcessor","Texture2DContent",7314,9301,0.0624963
+"D:/PASS3/PASS3/Content/Sprites/DownArrow.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/DownArrow.xnb","TextureProcessor","Texture2DContent",4151,3685,0.0312754
+"D:/PASS3/PASS3/Content/Sprites/ExitBtn1.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/ExitBtn1.xnb","TextureProcessor","Texture2DContent",3070,48629,0.0628505
+"D:/PASS3/PASS3/Content/Sprites/GreenBucket.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/GreenBucket.xnb","TextureProcessor","Texture2DContent",16273,36949,0.0465178
+"D:/PASS3/PASS3/Content/Sprites/LeftArrow.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/LeftArrow.xnb","TextureProcessor","Texture2DContent",4067,3685,0.0313646
+"D:/PASS3/PASS3/Content/Sprites/NoWind.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/NoWind.xnb","TextureProcessor","Texture2DContent",4153,3685,0.0470908
+"D:/PASS3/PASS3/Content/Sprites/PlayBtn1.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/PlayBtn1.xnb","TextureProcessor","Texture2DContent",3508,50405,0.0482975
+"D:/PASS3/PASS3/Content/Sprites/PowerMeter.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/PowerMeter.xnb","TextureProcessor","Texture2DContent",3383,27093,0.0468984
+"D:/PASS3/PASS3/Content/Sprites/RedBucket.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/RedBucket.xnb","TextureProcessor","Texture2DContent",23352,65621,0.0627611
+"D:/PASS3/PASS3/Content/Sprites/RightArrow.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/RightArrow.xnb","TextureProcessor","Texture2DContent",4052,3685,0.031181
+"D:/PASS3/PASS3/Content/Sprites/UpArrow.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/UpArrow.xnb","TextureProcessor","Texture2DContent",4130,3685,0.0312369
+"D:/PASS3/PASS3/Content/Sprites/WindArrowLeft.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/WindArrowLeft.xnb","TextureProcessor","Texture2DContent",5594,8605,0.04723
+"D:/PASS3/PASS3/Content/Sprites/WindArrowRight.png","D:/PASS3/PASS3/bin/Debug/Content/Sprites/WindArrowRight.xnb","TextureProcessor","Texture2DContent",5739,8605,0.0312449
