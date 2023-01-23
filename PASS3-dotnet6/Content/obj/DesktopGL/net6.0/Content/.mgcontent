@@ -4,23 +4,51 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/ball.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/Blank.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/BlueBucket.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/DownArrow.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/ExitBtn1.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/GreenBucket.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/LeftArrow.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/NoWind.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/PlayBtn1.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/PowerMeter.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/RedBucket.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/RightArrow.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/UpArrow.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/WindArrowLeft.png</File>
-    <File>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/WindArrowRight.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Fonts/Font.spritefont</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Fonts/FontXL.spritefont</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Fonts/mediumFont.spritefont</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Numbers/0.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Numbers/1.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Numbers/2.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Numbers/3.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Numbers/4.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Numbers/5.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Numbers/6.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Numbers/7.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Numbers/8.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Numbers/9.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/69.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/ball.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/Blank.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/DownArrow.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/ExitBtn1.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/Heart.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/Instructions.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/InstructionsBtn1.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/LeftArrow.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/NoWind.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/PlayBtn1.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/PowerMeter.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/RightArrow.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/UpArrow.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/WindArrowLeft.png</File>
+    <File>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/WindArrowRight.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

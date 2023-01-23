@@ -7,23 +7,45 @@
     <File>D:/PASS3/PASS3/Content/Fonts/Font.spritefont</File>
     <File>D:/PASS3/PASS3/Content/Fonts/FontXL.spritefont</File>
     <File>D:/PASS3/PASS3/Content/Fonts/mediumFont.spritefont</File>
+    <File>D:/PASS3/PASS3/Content/Numbers/0.png</File>
+    <File>D:/PASS3/PASS3/Content/Numbers/1.png</File>
+    <File>D:/PASS3/PASS3/Content/Numbers/2.png</File>
+    <File>D:/PASS3/PASS3/Content/Numbers/3.png</File>
+    <File>D:/PASS3/PASS3/Content/Numbers/4.png</File>
+    <File>D:/PASS3/PASS3/Content/Numbers/5.png</File>
+    <File>D:/PASS3/PASS3/Content/Numbers/6.png</File>
+    <File>D:/PASS3/PASS3/Content/Numbers/7.png</File>
+    <File>D:/PASS3/PASS3/Content/Numbers/8.png</File>
+    <File>D:/PASS3/PASS3/Content/Numbers/9.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/69.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/ball.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/Blank.png</File>
-    <File>D:/PASS3/PASS3/Content/Sprites/BlueBucket.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/DownArrow.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/ExitBtn1.png</File>
-    <File>D:/PASS3/PASS3/Content/Sprites/GreenBucket.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/Heart.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/Instructions.png</File>
+    <File>D:/PASS3/PASS3/Content/Sprites/InstructionsBtn1.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/LeftArrow.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/NoWind.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/PlayBtn1.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/PowerMeter.png</File>
-    <File>D:/PASS3/PASS3/Content/Sprites/RedBucket.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/RightArrow.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/UpArrow.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/WindArrowLeft.png</File>
     <File>D:/PASS3/PASS3/Content/Sprites/WindArrowRight.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

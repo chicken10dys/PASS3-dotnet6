@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/PlayBtn1.png</SourceFile>
+  <SourceFile>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/Sprites/PlayBtn1.png</SourceFile>
   <SourceTime>2022-11-06T15:47:34-05:00</SourceTime>
-  <DestFile>/home/chicken10dys/RiderProjects/PASS3-dotnet6/PASS3-dotnet6/Content/bin/DesktopGL/Content/Sprites/PlayBtn1.xnb</DestFile>
-  <DestTime>2023-01-12T00:54:22.0736096-05:00</DestTime>
+  <DestFile>/home/chicken10dys/PASS3-dotnet6/PASS3-dotnet6/Content/bin/DesktopGL/Content/Sprites/PlayBtn1.xnb</DestFile>
+  <DestTime>2023-01-23T14:12:01.8644332-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
